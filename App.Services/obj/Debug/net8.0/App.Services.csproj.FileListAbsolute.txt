@@ -1,0 +1,15 @@
+C:\Users\UMIT GELENER\source\repos\NetCoreApiWebNLayer\App.Services\bin\Debug\net8.0\App.Services.deps.json
+C:\Users\UMIT GELENER\source\repos\NetCoreApiWebNLayer\App.Services\bin\Debug\net8.0\App.Services.dll
+C:\Users\UMIT GELENER\source\repos\NetCoreApiWebNLayer\App.Services\bin\Debug\net8.0\App.Services.pdb
+C:\Users\UMIT GELENER\source\repos\NetCoreApiWebNLayer\App.Services\bin\Debug\net8.0\App.Repositories.dll
+C:\Users\UMIT GELENER\source\repos\NetCoreApiWebNLayer\App.Services\bin\Debug\net8.0\App.Repositories.pdb
+C:\Users\UMIT GELENER\source\repos\NetCoreApiWebNLayer\App.Services\obj\Debug\net8.0\App.Services.csproj.AssemblyReference.cache
+C:\Users\UMIT GELENER\source\repos\NetCoreApiWebNLayer\App.Services\obj\Debug\net8.0\App.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UMIT GELENER\source\repos\NetCoreApiWebNLayer\App.Services\obj\Debug\net8.0\App.Services.AssemblyInfoInputs.cache
+C:\Users\UMIT GELENER\source\repos\NetCoreApiWebNLayer\App.Services\obj\Debug\net8.0\App.Services.AssemblyInfo.cs
+C:\Users\UMIT GELENER\source\repos\NetCoreApiWebNLayer\App.Services\obj\Debug\net8.0\App.Services.csproj.CoreCompileInputs.cache
+C:\Users\UMIT GELENER\source\repos\NetCoreApiWebNLayer\App.Services\obj\Debug\net8.0\App.Serv.164048D1.Up2Date
+C:\Users\UMIT GELENER\source\repos\NetCoreApiWebNLayer\App.Services\obj\Debug\net8.0\App.Services.dll
+C:\Users\UMIT GELENER\source\repos\NetCoreApiWebNLayer\App.Services\obj\Debug\net8.0\refint\App.Services.dll
+C:\Users\UMIT GELENER\source\repos\NetCoreApiWebNLayer\App.Services\obj\Debug\net8.0\App.Services.pdb
+C:\Users\UMIT GELENER\source\repos\NetCoreApiWebNLayer\App.Services\obj\Debug\net8.0\ref\App.Services.dll

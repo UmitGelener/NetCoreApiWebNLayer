@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UMIT GELENER\\source\\repos\\NetCoreApiWebNLayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F82E30A3-377D-4A6D-A526-AEF539871340}|CleanApp.Api\\CleanApp.Api.csproj|c:\\users\\umit gelener\\source\\repos\\netcoreapiwebnlayer\\cleanapp.api\\extensions\\cachingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82E30A3-377D-4A6D-A526-AEF539871340}|CleanApp.Api\\CleanApp.Api.csproj|solutionrelative:cleanapp.api\\extensions\\cachingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82E30A3-377D-4A6D-A526-AEF539871340}|CleanApp.Api\\CleanApp.Api.csproj|c:\\users\\umit gelener\\source\\repos\\netcoreapiwebnlayer\\cleanapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82E30A3-377D-4A6D-A526-AEF539871340}|CleanApp.Api\\CleanApp.Api.csproj|solutionrelative:cleanapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7C01D5-8A1A-4AC7-8D59-0DCBE09BB8C5}|App.Caching\\App.Caching.csproj|c:\\users\\umit gelener\\source\\repos\\netcoreapiwebnlayer\\app.caching\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7C01D5-8A1A-4AC7-8D59-0DCBE09BB8C5}|App.Caching\\App.Caching.csproj|solutionrelative:app.caching\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDE0C96-9841-4DE9-9F52-3517A482F206}|App.Application\\App.Application.csproj|c:\\users\\umit gelener\\source\\repos\\netcoreapiwebnlayer\\app.application\\features\\products\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDE0C96-9841-4DE9-9F52-3517A482F206}|App.Application\\App.Application.csproj|solutionrelative:app.application\\features\\products\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDE0C96-9841-4DE9-9F52-3517A482F206}|App.Application\\App.Application.csproj|c:\\users\\umit gelener\\source\\repos\\netcoreapiwebnlayer\\app.application\\app.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8CDE0C96-9841-4DE9-9F52-3517A482F206}|App.Application\\App.Application.csproj|solutionrelative:app.application\\app.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 15,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:35697994:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1613416671:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CachingExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\UMIT GELENER\\source\\repos\\NetCoreApiWebNLayer\\CleanApp.Api\\Extensions\\CachingExtensions.cs",
+              "RelativeDocumentMoniker": "CleanApp.Api\\Extensions\\CachingExtensions.cs",
+              "ToolTip": "C:\\Users\\UMIT GELENER\\source\\repos\\NetCoreApiWebNLayer\\CleanApp.Api\\Extensions\\CachingExtensions.cs",
+              "RelativeToolTip": "CleanApp.Api\\Extensions\\CachingExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T21:05:19.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UMIT GELENER\\source\\repos\\NetCoreApiWebNLayer\\CleanApp.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CleanApp.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\UMIT GELENER\\source\\repos\\NetCoreApiWebNLayer\\CleanApp.Api\\Program.cs",
+              "RelativeToolTip": "CleanApp.Api\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:14:09.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "C:\\Users\\UMIT GELENER\\source\\repos\\NetCoreApiWebNLayer\\App.Caching\\CacheService.cs",
+              "RelativeDocumentMoniker": "App.Caching\\CacheService.cs",
+              "ToolTip": "C:\\Users\\UMIT GELENER\\source\\repos\\NetCoreApiWebNLayer\\App.Caching\\CacheService.cs",
+              "RelativeToolTip": "App.Caching\\CacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:08:58.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\UMIT GELENER\\source\\repos\\NetCoreApiWebNLayer\\App.Application\\Features\\Products\\ProductService.cs",
+              "RelativeDocumentMoniker": "App.Application\\Features\\Products\\ProductService.cs",
+              "ToolTip": "C:\\Users\\UMIT GELENER\\source\\repos\\NetCoreApiWebNLayer\\App.Application\\Features\\Products\\ProductService.cs",
+              "RelativeToolTip": "App.Application\\Features\\Products\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T19:55:36.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.Application",
+              "DocumentMoniker": "C:\\Users\\UMIT GELENER\\source\\repos\\NetCoreApiWebNLayer\\App.Application\\App.Application.csproj",
+              "RelativeDocumentMoniker": "App.Application\\App.Application.csproj",
+              "ToolTip": "C:\\Users\\UMIT GELENER\\source\\repos\\NetCoreApiWebNLayer\\App.Application\\App.Application.csproj",
+              "RelativeToolTip": "App.Application\\App.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T19:55:29.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

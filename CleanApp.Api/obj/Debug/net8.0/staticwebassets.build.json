@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "EHicqOExKckWZyvsXHPDSHRHRr8ICnC9+uwZjn4/UQs=",
+  "Source": "CleanApp.Api",
+  "BasePath": "_content/CleanApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
